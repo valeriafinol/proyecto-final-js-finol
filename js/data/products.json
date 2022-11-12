@@ -1,0 +1,160 @@
+{
+    "desserts": [
+        {
+            "id": 1,
+            "name": "Chocolate Cake",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235285/cakery/small_chocolate_cake_22acc785ee.webp",
+            "price": 16
+        },
+        {
+            "id": 2,
+            "name": "White Cake",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235286/cakery/small_white_cake_bc8b402e79.webp",
+            "price": 12
+        },
+        {
+            "id": 3,
+            "name": "Lemon layer cake",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235287/cakery/lemon_cake_8761e69c19.webp",
+            "price": 8
+        },
+        {
+            "id": 4,
+            "name": "Lemon Blueberry Cake",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235274/cakery/zucchini_cake_5c945e6c36.webp",
+            "price": 8
+        },
+        {
+        "id": 5,
+        "name": "Vanilla cupcakes",
+        "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235294/cakery/small_vanilla_cupcake_f849921f1f.webp",
+        "price": 12
+        },
+        {
+            "id": 6,
+            "name": "Chocolate Cupcakes",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235286/cakery/small_Chocolate_Cupcakes_80619f16ef.webp",
+            "price": 12
+        },
+        {
+            "id": 7,
+            "name": "Strawberry Cupcakes",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235293/cakery/small_strawberry_cupcakes_81fcd5b9ac.webp",
+            "price": 12
+        },
+        {
+            "id": 8,
+            "name": "Oreo Cupcakes",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235292/cakery/small_oreo_cupcakes_b27150b562.webp",
+            "price": 12
+        },
+        {
+            "id": 9,
+            "name": "Chocolate Chip Cookies",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235285/cakery/small_chocolate_chip_coookies_9fb5d794d7.webp",
+            "price": 12
+        },
+        {
+            "id": 10,
+            "name": "Ginger Cookies",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235286/cakery/ginger_cookies_caa30451ae.webp",
+            "price": 24
+        },
+        {
+            "id": 11,
+            "name": "Oaty hazelnut cookies",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235290/cakery/medium_hazelnut_cookies_bfe7c5f905.webp",
+            "price": 9
+        },
+        {
+            "id": 12,
+            "name": "Chocolate chip cookies",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235292/cakery/Vegan_Chocolate_Chip_Cookies_dd708ce3e0.webp",
+            "price": 16
+        },
+        {
+            "id": 13,
+            "name": "Glazed donuts",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235291/cakery/small_Glazed_Donuts_e8cfa10348.webp",
+            "price": 12
+        },
+        {
+            "id": 14,
+            "name": "Crispy Doughnuts",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235286/cakery/crispy_donuts_551bda4bae.webp",
+            "price": 18
+        },
+        {
+            "id": 15,
+            "name": "Baked Chocolate Donuts",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235277/cakery/medium_bakedchocolatedonuts_42b3efbf23.webp",
+            "price": 8
+        },
+        {
+            "id": 16,
+            "name": "Cream Filled Doughnuts",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235287/cakery/small_cream_filled_doughnuts_ef09829015.webp",
+            "price": 36
+        },
+        {
+        "id": 17,
+        "name": "Pear & berry pie",
+        "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235289/cakery/pear_berry_pie_1d671beb7b.webp",
+        "price": 5
+        },
+        {
+            "id": 18,
+            "name": "Banoffee pie",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235278/cakery/small_banoffee_pie_d8b4d2e521.webp",
+            "price": 9
+        },
+        {
+            "id": 19,
+            "name": "Sweet potatoe pie",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235295/cakery/small_Sweet_Potato_Pie_5fbbe83a8e.webp",
+            "price": 9
+        },
+        {
+            "id": 20,
+            "name": "Apple pie",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235276/cakery/small_apple_pie_e833eb1558.webp",
+            "price": 8
+        },
+        {
+            "id": 21,
+            "name": "Vanilla Coconut Cupcakes",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235286/cakery/small_Coconut_Cupcakes_fbf59756a6.webp",
+            "price": 12
+        },
+        {
+            "id": 22,
+            "name": "Orange and almond cake",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235289/cakery/small_orange_almond_cake_6d1ddaefab.webp",
+            "price": 7
+        },
+        {
+            "id": 23,
+            "name": "Chocolate cherry cake",
+            "img": "https://res.cloudinary.com/dop6sakq2/image/upload/v1649235279/cakery/small_chocolate_cherry_cake_16efd64436.webp",
+            "price": 8
+        },
+        {
+            "id": 24,
+            "name": "Key Lime Pie",
+            "img": "https://www.livewellbakeoften.com/wp-content/uploads/2021/05/Key-Lime-Pie-NEW-7s.jpg",
+            "price": 7
+        },
+        {
+            "id": 25,
+            "name": "Blueberry Crumble Cake",
+            "img": "https://www.onceuponachef.com/images/2017/08/blueberry-coffee-cake.jpg",
+            "price": 9
+        },
+        {
+            "name": "Chocolate Brownies",
+            "id": 26,
+            "img": "https://i.ytimg.com/vi/TrsTZv8sA-o/maxresdefault.jpg",
+            "price": 12
+        }
+    ]
+}

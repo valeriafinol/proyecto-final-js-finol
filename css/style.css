@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+header,
+footer,
+.backgroundTotal {
+  background-color: #594545;
+}
+
+nav {
+  background-color: #fff8ea;
+}
+
+h2 {
+  margin-top: 3% !important;
+  font-weight: bolder !important;
+}
+
+.imgProducts {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem;
+}
+
+.buttonStyleSolid {
+  background-color: #594545 !important;
+  color: white !important;
+}
+
+.buttonStyle:hover {
+  background-color: #594545 !important;
+  outline: #594545 !important;
+  color: white !important;
+}
+
+#productContainer {
+  margin: auto;
+}
+
+.card {
+  width: calc(100vw / 5) !important;
+}
+
+#offcanvasRight {
+  width: 50vw !important;
+}
+
+.offcanvasScrollable {
+  overflow-y: scroll;
+}
+
+.cartImg {
+  margin-right: 20px;
+}
+
+.cartImg>img {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.pTotal {
+  margin: 5%;
+  font-weight: bolder;
+}
+
+.divTotal {
+  background-color: #fff8ea;
+}
+
+.buttonCart {
+  margin-top: 20px !important;
+}
+
+.checkoutImage {
+  height: 400px;
+  margin: 3% 0;
+}
+
+.buttonCheckout {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40%;
+  background-color: #fff8ea !important;
+}
+
+.buttonCheckout:hover {
+  color: black !important;
+}
+
+.hidden {
+  display: none !important;
+}
